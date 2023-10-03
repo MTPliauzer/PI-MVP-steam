@@ -58,7 +58,6 @@ pyspark
 python-dateutil
 python-pptx
 pytz
-pywin32
 PyYAML
 pyzmq
 regex
